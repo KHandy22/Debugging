@@ -21,20 +21,7 @@ Fix all 6 programs.
 - Run `pytest test_tasks.py -v` to check your progress
 - Push when done
 
----
 
-## For the Sub
-
-Students should:
-1. Clone their assignment from GitHub Classroom
-2. Open the task files in PyCharm
-3. Start with task1.py (easiest - just code errors, no input needed)
-4. Move to task2.py (input syntax errors)
-5. Finish with task3.py (data conversion - most challenging)
-6. Run tests with `pytest test_tasks.py -v` in terminal
-7. Commit and push when done
-
-**Common hints you can give:**
 - Task 1: Look for typos, missing colons, wrong brackets
 - Task 2: Check the input() lines for missing quotes or wrong symbols
 - Task 3: Remember input() always returns a string - they need int() or float()
